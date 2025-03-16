@@ -9,4 +9,4 @@ Interested in getting more involved in contributing to open source as I strongly
 - DIY
 - Horticulture
 - Astronomy
-- Helldivers 2 Fan
+- Helldivers 2 fan
