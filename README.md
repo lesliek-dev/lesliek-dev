@@ -1,16 +1,12 @@
-## Hi there 👋
+# About Me
+Former healthcare worker, now working as a public servant.
+Firm believer in the right to privacy and right to repair.
+Interested in getting more involved in contributing to open source as I strongly object to the dependence our modern society has on big tech companies and the pervasive effect that has had on many facets of our day to day lives.
 
-<!--
-**lesliek-dev/lesliek-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Devout Linux user (Currently dailying NixOS after countless distro hops over the years)
+- Health and Fitness
+- DIY
+- Horticulture
+- Astronomy
+- Helldivers 2 Fan
